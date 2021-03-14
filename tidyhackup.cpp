@@ -11,10 +11,10 @@
 
 
 #define FIREBASE_HOST "https://tidyhackup-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "gcwPFD9oOWRwQLZ9M3vULdw8hHJo7LmknzLu1po7"
-#define WIFI_SSID "Mishra"
-#define WIFI_PASSWORD "password7"
-#define API_KEY "AIzaSyDaoIy7KfyCwIehudHAeYM9uYiLS6DOXcY"
+#define FIREBASE_AUTH "AUTH"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "password"
+#define API_KEY "API"
 
 
 const int FLEX_PIN = A0; // Pin connected to voltage divider output
